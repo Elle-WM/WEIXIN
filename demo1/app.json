@@ -63,7 +63,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "111",
+    "navigationBarTitleText": "Weixin",
     "navigationBarTextStyle": "black"
   },
   "sitemapLocation": "sitemap.json",
